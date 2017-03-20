@@ -1,4 +1,4 @@
-// 1,2,3으로 만들기
+// 1,2,3으로 만들기 : dp
 
 #include <iostream>
 using namespace std;
