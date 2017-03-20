@@ -1,4 +1,4 @@
-// 2*n 타일링2
+// 2*n 타일링2 : dp
 
 #include <iostream>
 using namespace std;
