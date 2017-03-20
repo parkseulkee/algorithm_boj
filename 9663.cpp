@@ -1,3 +1,5 @@
+// N-Queen : 백트랙킹
+
 #include <iostream>
 #include <cmath>
 using namespace std;
