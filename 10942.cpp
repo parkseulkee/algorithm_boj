@@ -1,3 +1,5 @@
+// 팰린드롬? dp
+
 #include <cstdio>
 #include <memory.h>
  
