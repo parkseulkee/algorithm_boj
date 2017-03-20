@@ -1,4 +1,4 @@
-// 1로 만들기
+// 1로 만들기 : dp
 
 #include <iostream>
 using namespace std;
