@@ -1,4 +1,4 @@
-// 이친수
+// 이친수 : dp
 
 #include <iostream>
 using namespace std;
