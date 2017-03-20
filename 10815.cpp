@@ -1,7 +1,8 @@
+// 숫자카드 : 이분 탐색
+
 #include<stdio.h>
 #include<cstdio>
 #include<algorithm>
-//#pragma warning(disable:4996)
 
 #define N 500000
 using namespace std;
