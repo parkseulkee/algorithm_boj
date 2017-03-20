@@ -1,3 +1,5 @@
+// 동전0 : 그리디 알고리즘
+
 #include <iostream>
 using namespace std;
 
