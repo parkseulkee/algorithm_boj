@@ -1,4 +1,4 @@
-// 레드 블루 스패닝 트리
+// 레드 블루 스패닝 트리 : 최소 스패닝 트리
 
 #include <iostream>
 #include <algorithm>
