@@ -1,3 +1,5 @@
+// 완전 제곱수
+
 #include <iostream>
 using namespace std;
 
