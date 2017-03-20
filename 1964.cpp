@@ -1,3 +1,5 @@
+// 오각형, 오각형 ... : 수학
+
 #include <iostream>
 using namespace std;
 
