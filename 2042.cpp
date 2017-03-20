@@ -1,3 +1,5 @@
+// 구간 합 구하기 : 세그먼트 트리
+
 #include <iostream>
 #include <vector>
 #include <math.h>
