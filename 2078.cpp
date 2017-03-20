@@ -1,3 +1,5 @@
+// 무한 이진 트리
+
 // (a,b) 
 // (a+b,b) : a>b 왼 parent (a+b-b,b)
 // (a,b+a) : a<b 오 parent (a,a+b-a)
