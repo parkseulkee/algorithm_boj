@@ -1,4 +1,4 @@
-// 붕어빵 판매하기
+// 붕어빵 판매하기 : dp
 
 #include <iostream>
 using namespace std;
