@@ -1,4 +1,4 @@
-// 포도주 시식
+// 포도주 시식 : dp
 #include <iostream>
 using namespace std;
 
