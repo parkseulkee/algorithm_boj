@@ -1,3 +1,5 @@
+// 회의실배정 : 그리디 알고리즘
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
