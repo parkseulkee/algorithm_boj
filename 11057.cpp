@@ -1,4 +1,4 @@
-// 오르막수
+// 오르막수 : dp
 
 #include <iostream>
 using namespace std;
