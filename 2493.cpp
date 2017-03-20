@@ -1,3 +1,5 @@
+// 탑 : 스택
+
 #include <iostream>
 #include <stack>
 using namespace std;
