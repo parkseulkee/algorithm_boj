@@ -1,4 +1,4 @@
-// 쉬운계단수
+// 쉬운계단수 : dp
 
 #include <iostream>
 using namespace std;
