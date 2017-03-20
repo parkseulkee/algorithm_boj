@@ -1,3 +1,5 @@
+// 연결요소의 개수 : DFS
+
 #include <iostream>
 using namespace std;
 
