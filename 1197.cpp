@@ -1,4 +1,4 @@
-// 최소 스패닝 트리
+// 최소 스패닝 트리 : 최소 스패닝 트리
 
 #include <iostream>
 #include <algorithm>
