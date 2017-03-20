@@ -1,3 +1,5 @@
+// 트리의 지름
+
 #include <cstdio>
 #include <algorithm>
 #include <iostream>
